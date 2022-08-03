@@ -8,28 +8,24 @@
 * 3.14
     * 这是一个float型字面量
 
-## Which one below is a float literal?
 ## 以下哪个是float型的字面量?
 * -42
 * "Hello"
 * false
 * 3.14 *对√*
 
-## Which one below is a float literal?
 ## 以下哪个是float型的字面量?
 * 6,28
 * ,28
 * .28 *对√*
 * 628
 
-## Which one below is a string literal?
 ## 以下哪个是string型的字面量?
 * -42
 * "Hello" *对√*
 * false
 * 3.14
 
-## Which one below is a bool constant?
 ## 以下哪个是bool型的常量?
 * -42
 * "Hello"
